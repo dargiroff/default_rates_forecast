@@ -1,5 +1,5 @@
-# My solution to the KDD 1998 cup
-Implementing a solution to: https://www.kdd.org/kdd-cup/view/kdd-cup-1998/Data
+# Forecasting Default Rates
+Trying to forecast default rates with a logistic regression and LightGBM
 
 ![Comulative Gain Plot](/forecast.png?raw=true)
 
